@@ -1,0 +1,26 @@
+diff -urN a/po/kn.po b/po/kn.po
+--- a/po/kn.po	2010-05-06 16:40:53.440154423 +0530
++++ b/po/kn.po	2010-05-06 16:41:03.841496301 +0530
+@@ -7,7 +7,7 @@
+ msgstr ""
+ "Project-Id-Version: kn\n"
+ "Report-Msgid-Bugs-To: \n"
+-"POT-Creation-Date: 2008-06-12 15:49+0000\n"
++"POT-Creation-Date: 2010-03-29 13:04+0530\n"
+ "PO-Revision-Date: 2008-08-29 11:12+0530\n"
+ "Last-Translator: Shankar Prasad <svenkate@redhat.com>\n"
+ "Language-Team: Kannada <en@li.org>\n"
+@@ -19,7 +19,7 @@
+ 
+ #: ../index.theme.in.h:1
+ msgid "Default GNOME Theme"
+-msgstr "ಡೀಫಾಲ್ಟ್‌ GNOME ಥೀಮ್"
++msgstr "ಪೂರ್ವನಿಯೋಜಿತ GNOME ಥೀಮ್"
+ 
+ #: ../index.theme.in.h:2
+ msgid "GNOME"
+@@ -84,4 +84,3 @@
+ #: ../scalable/emblems/emblem-web.icon.in.h:1
+ msgid "Web"
+ msgstr "ಅಂತರ್ಜಾಲ"
+-
